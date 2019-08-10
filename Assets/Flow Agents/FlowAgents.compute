@@ -3,7 +3,6 @@
 #pragma kernel UpdateTrail
 
 #include "UnityCG.cginc"
-#include "ClassicNoise2D.cginc"
 
 struct Agent
 {
